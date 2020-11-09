@@ -1,4 +1,4 @@
-### 已修改为每周二续期
+### 已修改为每周二续期qmqm
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
 
